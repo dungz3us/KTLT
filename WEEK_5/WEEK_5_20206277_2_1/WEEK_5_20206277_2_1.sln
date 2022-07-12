@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEEK_5_20206277_2_1", "WEEK_5_20206277_2_1.csproj", "{3499D314-BE0E-40F4-AEAE-5E368038DEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB09AEE-D143-435B-A113-416FC15867C8}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEEK_5_20206277_2_1", "WEEK_5_20206277_2_1.csproj", "{3499D314-BE0E-40F4-AEAE-5E368038DEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3499D314-BE0E-40F4-AEAE-5E368038DEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB09AEE-D143-435B-A113-416FC15867C8}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 9cca62e387898e17b7c45a8c941bfc56832ca4f8
