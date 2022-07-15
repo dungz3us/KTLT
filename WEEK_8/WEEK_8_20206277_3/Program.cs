@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WEEK_8_20206277_2_1
+namespace WEEK_8_20206277_2
 {
     public class BST
     {
@@ -114,6 +114,7 @@ namespace WEEK_8_20206277_2_1
             }
             return countNodes(node.left) + countNodes(node.right) + 1;
         }
+
     }
     class Program
     {

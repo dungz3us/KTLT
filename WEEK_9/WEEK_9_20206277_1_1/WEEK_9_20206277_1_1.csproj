@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BA9CCE2E-837A-4324-A4BC-D475E91CDB60}</ProjectGuid>
+    <ProjectGuid>{3996D141-9B33-46BD-B6E1-B3B8C2562332}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WEEK_8_20206277_2_1</RootNamespace>
-    <AssemblyName>WEEK_8_20206277_2_1</AssemblyName>
+    <RootNamespace>WEEK_9_20206277_1_1</RootNamespace>
+    <AssemblyName>WEEK_9_20206277_1_1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
