@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nguyễn Quang Dũng - 20206277
+using System;
 using System.Numerics;
 using System.Collections.Generic;
 using System.Text;

@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nguyễn Quang Dũng - 20206277
+using System;
 using System.Text;
     class Node
     {

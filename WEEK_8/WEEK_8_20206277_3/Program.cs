@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nguyễn Quang Dũng - 20206277
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -137,7 +138,7 @@ namespace WEEK_8_20206277_2
             bst.inorder();
             Console.WriteLine();
             int count = bst.countNodes(bst.root);
-            Console.WriteLine(count);
+            Console.WriteLine("Number of node is: " + count);
             Console.ReadLine();
         }
     }

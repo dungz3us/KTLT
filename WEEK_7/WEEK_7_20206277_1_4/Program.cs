@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nguyễn Quang Dũng - 20206277
+using System;
 
 namespace WEEK_7_20206277_1_4
 {
@@ -32,7 +33,7 @@ namespace WEEK_7_20206277_1_4
             Console.WriteLine("Positive subarray with largest sum is: ");
             for( int i = start; i <= end; i++ )
             {
-                Console.Write(a[i]);
+                Console.Write(a[i] + " ");
             }    
         }
         public static void Main(string[] args)

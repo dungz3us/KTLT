@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Nguyễn Quang Dũng - 20206277
+using System;
 
 namespace WEEK_7_20206277_2_1
 {
@@ -56,7 +57,7 @@ namespace WEEK_7_20206277_2_1
             {
                 if (arr[i] == x)
                 {
-                    Console.WriteLine("Found at index: " + i);
+                    Console.WriteLine("Found " + x + " at index: " + i);
                 }
             }
             return -1;
